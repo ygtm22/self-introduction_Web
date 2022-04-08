@@ -1,3 +1,13 @@
-h1{
-    text-align:center;
+.profile{
+    border: 5px;
+    border-color: black;
+    background-color: aqua;
+}
+
+.hobby1{
+    background-color: red;
+}
+
+hr{
+    border: none;
 }

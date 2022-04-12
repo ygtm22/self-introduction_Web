@@ -75,5 +75,23 @@ h1{
 }
 
 .extracurricularactivity{
+    margin-right: 500px;
     background-color: silver;
+    border-radius:9px;
+    display: flex;
+    font-size: 30px;
+}
+
+.start{
+    margin-left: 600px;
+    background-color: green;
+    border-radius:9px;
+    font-size: 30px;
+}
+
+.proud{
+    margin-right: 500px;
+    background-color: orangered;
+    border-radius:9px;
+    font-size: 30px;
 }
